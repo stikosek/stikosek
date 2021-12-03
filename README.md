@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
-- 🔭 I’m currently working on **nothing lol**
+- 🔭 I’m currently working on **a minecraft cheat**
 
 - 🌱 I’m currently learning **RobloxLua**
 
