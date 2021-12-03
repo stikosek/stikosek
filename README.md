@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a minecraft cheat**
 
-- 🌱 I’m currently learning **RobloxLua**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **potatoes**
 
