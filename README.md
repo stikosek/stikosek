@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
-- 🔭 I’m currently working on **a minecraft hack client**
+- 🔭 I’m currently working on **a website**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **html and css**
 
 - 💬 Ask me about **potatoes**
 
