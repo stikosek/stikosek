@@ -1,17 +1,17 @@
 <h1 align="center">Hello, I'm stikosek</h1>
-<h3 align="center">A C-Sharp and RobloxLua dev from The Czech Republic.</h3>
+<h3 align="center">A C#, HTML & CSS and a bit of java and  a tiny amount of c++ dev from The Czech Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
-- 🔭 I’m currently working on **a game**
+- 🔭 I’m currently working on **a minecraft server**
 
-- 🌱 I’m currently learning **unity**
+- 🌱 I’m currently learning **java**
 
-- 💬 Ask me about **potatoes**
+- 💬 Ask me about **the letter h**
 
 - 📫 How to reach me **stikosek#0761**
 
-- ⚡ Fun fact **I'm a proffesional idiot.**
+- ⚡ Fun fact **I'm a proffesional idiot. Also h is the best letter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
