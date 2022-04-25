@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm stikosek</h1>
-<h3 align="center">A C#, HTML & CSS and a bit of java and  a tiny amount of c++ dev from The Czech Republic.</h3>
+<h3 align="center">A C#, HTML & CSS and a bit of java dev from The Czech Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
