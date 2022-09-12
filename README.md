@@ -1,4 +1,3 @@
-<iframe src="https://cdn.bitdegree.org/learn/test-iframe.htm" width="90%" height="300px"></iframe>
 
 <h1 align="center">Hello, I'm stikosek</h1>
 <h3 align="center">A C#, HTML & CSS and a bit of java dev from The Czech Republic.</h3>
