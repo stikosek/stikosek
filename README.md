@@ -31,6 +31,5 @@
 
 ### My github statistics 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stikosek&show_icons=true&theme=dark&locale=en" alt="stikosek" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stikosek&show_icons=true&locale=en&layout=compact" alt="stikosek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stikosek&show_icons=true&theme=dark&locale=en&layout=compact" alt="stikosek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stikosek&show_icons=true&locale=en" alt="stikosek" /></p>
