@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm stikosek</h1>
-<h3 align="center">A C#, HTML & CSS and a bit of java dev from The Czech Republic.</h3>
+<h3 align="center">I am a self-taught amateur developer from the Czech Republic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
@@ -24,4 +24,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/stikosek"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="stikosek" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stikosek&show_icons=true&theme=dark&locale=en" alt="stikosek" /></p>
+### My github statistics 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stikosek&show_icons=true&theme=dark&locale=en" alt="stikosek" /></p>
