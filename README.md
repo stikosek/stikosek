@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **a server managment & billing system**
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **rust**
 
 - 💬 Ask me about **the letter h**
 
 - 📫 How to reach me **stikosek#0761**
-
-- ⚡ Fun fact **I'm a proffesional idiot. Also h is the best letter.**
 
 ### Connect with me
 
