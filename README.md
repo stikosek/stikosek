@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **the letter h**
 
-- 📫 How to reach me **stikosek#0761**
+- 📫 Reach me @ **stikosek#0761**
 
 ### Connect with me
 
