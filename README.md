@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikosek&label=Profile%20views&color=0eb437&style=flat" alt="stikosek" /> </p>
 
-- 🔭 I’m currently working on **a server managment & billing system**
+- 🔭 I’m currently working on **h**
 
 - 🌱 I’m currently learning **rust**
 
